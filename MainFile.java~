@@ -1,3 +1,13 @@
+
+//
+//  textureMain.java
+//  
+//
+//  Main class for texture assignment.
+//
+//  Students should not be modifying this file.
+//
+
 import java.awt.*;
 import java.nio.*;
 import java.io.*;
